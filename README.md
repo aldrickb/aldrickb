@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./assets/banner.png)
+![ALDRICKB Banner Image](./assets/banner.png)
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="30"/> WELCOME! I'M ALDRICKB
@@ -20,29 +20,18 @@ Let's build something amazing together! 🚀
 <!--Trophies Section-->
 <h2 align="center">🏆 GITHUB TROPHIES 🏆</h2>
 
-<center>
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=aldrickb&theme=dracula)
-
-</center>
+![trophy](https://github-profile-trophy.vercel.app/?username=aldrickb&theme=dracula)
 
 <br />
 
 <!--Github stats Table--> 
 <h2 align="center">📊 CODING STATS 📊</h2>
-<center>
 
-  ![Aldrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldrickb&show_icons=true)
-
-  ![Aldrick's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aldrickb&layout=compact&hide=other&langs_count=15)
-
-</center>
+![Aldrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldrickb&show_icons=true)
+![Aldrick's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aldrickb&layout=compact&hide=other&langs_count=15)
 
 <br />
 
 <!--Support--> 
 <h2 align="center">☕ Support Me ☕</h2>
-
-<center>
-  <a href="https://buymeacoffee.com/aldrickb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="41" width="174"/>
-</center>
+<a href="https://buymeacoffee.com/aldrickb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="41" width="174"/>
